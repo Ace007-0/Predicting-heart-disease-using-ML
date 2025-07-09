@@ -28,7 +28,9 @@ Engineered relevant features to enhance model performance
 Trained and evaluated three different machine learning models:
 
 1).Logistic Regression
+
 2).K-Nearest Neighbors (KNN)
+
 3).Random Forest Classifier
 
 5).Model Evaluation & Tuning
@@ -62,4 +64,4 @@ Clone the repository
 
 Install required packages (pip install -r requirements.txt)
 
-Run the notebook: 05e3e82b-45af-4f62-a388-b1a89f8d9bc9.ipynb in Jupyter Notebook
+Run the notebook: Predicting-heart-disease-using-ML.ipynb in Jupyter Notebook
