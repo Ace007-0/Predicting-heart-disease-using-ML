@@ -6,9 +6,11 @@ This project uses machine learning techniques to predict the presence of heart d
 The project follows a systematic data science process:
 
 1).Problem Definition
+
 Predict whether a patient has heart disease based on their medical attributes.
 
 2).Data Collection
+
 The dataset used is heart-disease.csv, consisting of 303 entries and 14 features including age, sex, chest pain type, resting blood pressure, cholesterol, maximum heart rate, and more.
 
 3).Exploratory Data Analysis (EDA)
@@ -22,13 +24,12 @@ Checked for missing values and outliers
 Engineered relevant features to enhance model performance
 
 4).Model Building
+
 Trained and evaluated three different machine learning models:
 
-Logistic Regression
-
-K-Nearest Neighbors (KNN)
-
-Random Forest Classifier
+1).Logistic Regression
+2).K-Nearest Neighbors (KNN)
+3).Random Forest Classifier
 
 5).Model Evaluation & Tuning
 
@@ -49,8 +50,11 @@ Visualization helped in understanding data patterns and model decisions
 
 ## 📁 Technologies Used
 Python
+
 Pandas, NumPy
+
 Matplotlib, Seaborn
+
 Scikit-learn (Logistic Regression, KNN, Random Forest, GridSearchCV, etc.)
 
 ## 🚀 How to Run
